@@ -35,7 +35,7 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
 
 1.  Clone the repository:
     ```bash
-    git clone <YOUR_GITHUB_REPO_URL>
+    git clone https://github.com/ahmedmostafaa0/Calendar.git
     ```
 2.  Navigate to the project directory:
     ```bash
